@@ -1,0 +1,6 @@
+Pathway on how I am building this Project 
+
+1. For this I want to build a frontend and a backend.
+2. Frontend will be done in a seperate directory in the project directory, and will be done using the basic react and css styling.
+3. Backend and connection to frontend will be implemented using Flask module in Python.
+4. In the backend API calls will we made.
