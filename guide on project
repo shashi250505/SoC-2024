@@ -3,7 +3,7 @@ Pathway on how I am building this Project
 User Interface is made using Streamlit and background uses Langchain and OpenAI API calls.
 
 To Run the Project
-1. Download SoS.py, requirements.txt, .env files into a project directory
+1. Download PDF_Chatbot.py, requirements.txt, .env files into a project directory
 2. Run "pip install -r requirements.txt" command in terminal to get all required packages into the environment
 3. Now get your OpenAI API key from your OpenAI account and paste it in the .env file
 4. You are ready to run "streamlit run SoS.py" and you can interact with the project using the two urls that will be displayed.
